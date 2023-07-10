@@ -17,17 +17,18 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/sankooru14/real-time-chat-app.git
+   ```bash
+   git clone https://github.com/sankooru14/real-time-chat-app.git
+2. Open backend folder and run it:
 
-2. Navigate to the backend folder
-```bash
-cd backend
-npm start
+   ```bash
+   cd backend
+   npm start
 
-3. Navigate to frontend folder
-```bash
-cd frontend
-npm start
+3. Open frontend folder and run it:
 
-4. Open your browser and visit http://localhost:3000
+   ```bash
+   cd frontend
+   npm start
+4. Now open your browser and open  http://localhost:3000:
+
